@@ -1,4 +1,5 @@
-//9-8 sort a stack (this can be done as an insertion sort using the foldLeft API)
+//9-8 sort a stack 
+//NB- this can be done as an insertion sort using the foldLeft API.
 
 object stackSort {
 
