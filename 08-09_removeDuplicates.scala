@@ -1,4 +1,5 @@
 //8-9 remove duplicates from a sorted list
+//NB- foldRight is not tail recursive and will add memory overhead
 
 object removeDuplicates {
 

@@ -1,4 +1,5 @@
 //7-12 implement run-length encoding
+//NB- foldRight is not tail recursive and will add memory overhead
 
 object implementRLE {
 
